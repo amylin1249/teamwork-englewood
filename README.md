@@ -1,4 +1,4 @@
-# Project: Addressing Disproportionate Gun Possession Charges Among Young Black Men in Englewood
+# Addressing Disproportionate Gun Possession Charges Among Young Black Men in Englewood
 
 ## Members
 - Amy Lin (Project Manager)
